@@ -1,5 +1,5 @@
-# **Erigon-on-RPi-4**
-### My personal guide to running an Erigon archive node (Ethereum) on an 8GB Raspberry Pi 4
+# **Pulse-Erigon-on-RPi-4**
+### Experimental laboratory (fork)
 
 <br />
 <br />
@@ -10,13 +10,6 @@
 * I'm impressed that such a system can sync and run indefinitely on less than 20 watts of electricity
 * It seems like a cool idea
 
-<br />
-<br />
-
-## **WARNINGS**
-**Erigon is still in beta, and may experience database corruption if the `erigon` process is stopped during initial sync (e.g. to reboot).**
-* Prior to completion of the initial sync, users should plan to run their computer 24/7 in order to avoid this issue.
-* Once the first sync has completed, the `erigon` process can be safely stopped and restarted without loss of data.
 
 <br />
 <br />
