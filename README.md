@@ -1,14 +1,12 @@
-# **Pulse-Erigon-on-RPi-4**
+# **Pulse-PI**
 ### Experimental laboratory (fork)
 
 <br />
 <br />
 
 ## **Why?**
-* Blockchain node software is something that I want to learn more about
-* An Ethereum archive node contains immense volumes of data to explore and analyze
-* I'm impressed that such a system can sync and run indefinitely on less than 20 watts of electricity
-* It seems like a cool idea
+* Again, all loose and strapping in is undesirable, however it is a wonderful little and above all interesting task to explore the capabilities of the Pulsechain on what is probably the most energy efficient device in the world. So let's try to realize a small time-based analysis. 
+* and It seems like a cool idea
 
 
 <br />
